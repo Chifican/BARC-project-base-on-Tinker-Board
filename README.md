@@ -1,3 +1,3 @@
 # BARC-project-base-on-Tinker-Board
 Use ASUS Tinker Board S to achieve line tracking of a racing car prototype
-It is a project to redesign a remote control racing car prototype into a auto-drive vihicle. We replace the signal reciever by the Tinker Board S, and use simple algorithm of OpenCV to proccess the image.
+This project is to redesign a remote-control racing car into an auto-drive intelligence car by replacing the radio receiver on the car with a micro-controller (i.e. Raspberry Pi, Tinker Board or Odroid). Those micro-controllers play the role of microcomputers which are based on Linux. In addition, we planned to use python to design an algorithm to achieve the line-tracking task. This design requires the knowledge of the basic use of Linux, python and basic concept of image processing. We replace the signal reciever by the Tinker Board S, and use simple algorithm of OpenCV to proccess the image in Xubuntu 19.04.
